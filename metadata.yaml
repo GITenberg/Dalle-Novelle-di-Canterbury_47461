@@ -1,4 +1,8 @@
 _repo: Dalle-Novelle-di-Canterbury_47461
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47461-h/images/cover.jpg
 creator:
   author:
     agent_name: Chaucer, Geoffrey
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/144
     wikipedia: http://en.wikipedia.org/wiki/Geoffrey_Chaucer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47461#Dalle-Novelle-di-Canterbury
 gutenberg_bookshelf: IT Racconti
 gutenberg_issued: '2014-11-26'
 gutenberg_type: Text
